@@ -1,0 +1,195 @@
+{
+  "id": "12-talismans-of-shendu",
+  "title": "12 Talismans of Shendu [PF2e]",
+  "author": "Christopher Foster",
+  "version": "0.9.0",
+  "manifest": "https://github.com/comics0026/12-Talismans-of-Shendu-PF2e-/releases/latest/download/module.json",
+  "download": "https://github.com/comics0026/12-Talismans-of-Shendu-PF2e-/releases/download/0.9.0/12-talismans-of-shendu[PF2e]V0.9.0.zip",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>Looking for an adventure to take down a high level demon sorcerer that’s taken over the world by using his own resources against him? The prepare for a fight for the 12 Talisman of Shendu in this short adventure!</p>",
+  "url": "https://www.patreon.com/c/ForesterDesigns",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pack1",
+      "label": "12 Talismans of Shendu Adventure",
+      "path": "packs/pack1",
+      "type": "Adventure",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-2",
+      "label": "12 Talismans of Shendu Actors",
+      "path": "packs/pack-2",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-3",
+      "label": "12 Talismans of Shendu Items",
+      "path": "packs/pack-3",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-4",
+      "label": "12 Talismans of Shendu Rollable Tables",
+      "path": "packs/pack-4",
+      "type": "RollTable",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-5",
+      "label": "PIWI - Evolution Guide & Index",
+      "path": "packs/pack-5",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-6",
+      "label": "PIWI - Gen Beta",
+      "path": "packs/pack-6",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-7",
+      "label": "PIWI - Gen I",
+      "path": "packs/pack-7",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-8",
+      "label": "PIWI - Gen II",
+      "path": "packs/pack-8",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-9",
+      "label": "PIWI - Gen III",
+      "path": "packs/pack-9",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-10",
+      "label": "PIWI - Gen IV",
+      "path": "packs/pack-10",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-11",
+      "label": "PIWI - Gen IX",
+      "path": "packs/pack-11",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-12",
+      "label": "PIWI - Gen V",
+      "path": "packs/pack-12",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-13",
+      "label": "PIWI - Gen VI",
+      "path": "packs/pack-13",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "pack-14",
+      "label": "12 Talismans of Shendu Scenes",
+      "path": "packs/pack-14",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "action": "manageModule",
+  "authors": [
+    {
+      "name": "Christoper J Foster",
+      "url": "https://www.patreon.com/c/ForesterDesigns",
+      "flags": {}
+    }
+  ]
+}
