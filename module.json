@@ -2,15 +2,15 @@
   "id": "12-talismans-of-shendu",
   "title": "12 Talismans of Shendu [PF2e]",
   "author": "Christopher Foster",
-  "version": "0.9.0",
-  "manifest": "https://github.com/comics0026/12-Talismans-of-Shendu-PF2e-/releases/latest/download/module.json",
-  "download": "https://github.com/comics0026/12-Talismans-of-Shendu-PF2e-/releases/download/0.9.0/12-talismans-of-shendu[PF2e]V0.9.0.zip",
+  "version": "0.9.1",
+  "manifest": "https://github.com/comics0026/12-Talismans-of-Shendu-PF2e-/releases/download/0.9.0/module.json",
+  "download": "https://github.com/comics0026/12-Talismans-of-Shendu-PF2e-/releases/download/0.9.1/12-talismans-of-shendu.PF2e.V0.9.1.zip",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
   },
   "description": "<p>Looking for an adventure to take down a high level demon sorcerer that’s taken over the world by using his own resources against him? The prepare for a fight for the 12 Talisman of Shendu in this short adventure!</p>",
-  "url": "https://www.patreon.com/c/ForesterDesigns",
+  "url": "https://github.com/comics0026/12-Talismans-of-Shendu-PF2e-/releases/download/0.9.1/module.json",
   "flags": {
     "canUpload": true
   },
