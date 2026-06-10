@@ -1,0 +1,15 @@
+2026/06/09-21:13:31.747 a350 Recovering log #71
+2026/06/09-21:13:31.750 a350 Delete type=0 #71
+2026/06/09-21:13:31.750 a350 Delete type=3 #69
+2026/06/09-21:58:52.033 11b04 Level-0 table #76: started
+2026/06/09-21:58:52.095 11b04 Level-0 table #76: 1571477 bytes OK
+2026/06/09-21:58:52.096 11b04 Delete type=0 #74
+2026/06/09-21:58:52.108 11b04 Manual compaction at level-0 from '!adventures!lq96j38hNxMbuZJ3' @ 72057594037927935 : 1 .. '!adventures!lq96j38hNxMbuZJ3' @ 0 : 0; will stop at (end)
+2026/06/09-21:58:52.108 11b04 Manual compaction at level-1 from '!adventures!lq96j38hNxMbuZJ3' @ 72057594037927935 : 1 .. '!adventures!lq96j38hNxMbuZJ3' @ 0 : 0; will stop at '!adventures!lq96j38hNxMbuZJ3' @ 3 : 1
+2026/06/09-21:58:52.108 11b04 Compacting 1@1 + 1@2 files
+2026/06/09-21:58:52.177 11b04 Generated table #77@1: 1 keys, 1571477 bytes
+2026/06/09-21:58:52.177 11b04 Compacted 1@1 + 1@2 files => 1571477 bytes
+2026/06/09-21:58:52.178 11b04 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/09-21:58:52.178 11b04 Delete type=2 #64
+2026/06/09-21:58:52.178 11b04 Delete type=2 #76
+2026/06/09-21:58:52.188 11b04 Manual compaction at level-1 from '!adventures!lq96j38hNxMbuZJ3' @ 3 : 1 .. '!adventures!lq96j38hNxMbuZJ3' @ 0 : 0; will stop at (end)
