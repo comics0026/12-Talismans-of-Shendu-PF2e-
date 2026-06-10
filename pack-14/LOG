@@ -1,8 +1,0 @@
-2026/05/27-00:55:56.828 7a04 Recovering log #4
-2026/05/27-00:55:56.829 7a04 Delete type=0 #4
-2026/05/27-00:55:56.830 7a04 Delete type=3 #2
-2026/05/27-00:57:30.314 568c Level-0 table #9: started
-2026/05/27-00:57:30.314 568c Level-0 table #9: 0 bytes OK
-2026/05/27-00:57:30.315 568c Delete type=0 #7
-2026/05/27-00:57:30.377 568c Manual compaction at level-0 from '!folders!wqng4PrUM1FLZ8r9' @ 72057594037927935 : 1 .. '!scenes.walls!wFcq0HxJILAHhp3p.z2Z4giFVQLUxjInH' @ 0 : 0; will stop at (end)
-2026/05/27-00:57:30.377 568c Manual compaction at level-1 from '!folders!wqng4PrUM1FLZ8r9' @ 72057594037927935 : 1 .. '!scenes.walls!wFcq0HxJILAHhp3p.z2Z4giFVQLUxjInH' @ 0 : 0; will stop at (end)
