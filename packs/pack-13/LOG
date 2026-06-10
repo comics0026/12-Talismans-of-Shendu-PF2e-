@@ -1,0 +1,8 @@
+2026/06/09-21:59:18.117 c894 Recovering log #75
+2026/06/09-21:59:18.120 c894 Delete type=0 #75
+2026/06/09-21:59:18.120 c894 Delete type=3 #73
+2026/06/09-22:59:27.122 11b04 Level-0 table #80: started
+2026/06/09-22:59:27.122 11b04 Level-0 table #80: 0 bytes OK
+2026/06/09-22:59:27.123 11b04 Delete type=0 #78
+2026/06/09-22:59:27.126 11b04 Manual compaction at level-0 from '!items!ZKfyt1ZCkQwJe9My' @ 72057594037927935 : 1 .. '!items!ZKfyt1ZCkQwJe9My' @ 0 : 0; will stop at (end)
+2026/06/09-22:59:27.126 11b04 Manual compaction at level-1 from '!items!ZKfyt1ZCkQwJe9My' @ 72057594037927935 : 1 .. '!items!ZKfyt1ZCkQwJe9My' @ 0 : 0; will stop at (end)
