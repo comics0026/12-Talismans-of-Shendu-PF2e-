@@ -1,0 +1,8 @@
+2026/06/09-21:59:18.091 db30 Recovering log #75
+2026/06/09-21:59:18.094 db30 Delete type=0 #75
+2026/06/09-21:59:18.094 db30 Delete type=3 #73
+2026/06/09-22:59:27.115 11b04 Level-0 table #80: started
+2026/06/09-22:59:27.115 11b04 Level-0 table #80: 0 bytes OK
+2026/06/09-22:59:27.116 11b04 Delete type=0 #78
+2026/06/09-22:59:27.120 11b04 Manual compaction at level-0 from '!folders!ImxyrefheDev7r7n' @ 72057594037927935 : 1 .. '!items!zEmuYnALGgBKOrYN' @ 0 : 0; will stop at (end)
+2026/06/09-22:59:27.120 11b04 Manual compaction at level-1 from '!folders!ImxyrefheDev7r7n' @ 72057594037927935 : 1 .. '!items!zEmuYnALGgBKOrYN' @ 0 : 0; will stop at (end)

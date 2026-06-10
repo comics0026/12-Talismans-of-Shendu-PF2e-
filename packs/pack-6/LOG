@@ -1,0 +1,8 @@
+2026/06/09-21:59:18.083 a350 Recovering log #75
+2026/06/09-21:59:18.085 a350 Delete type=0 #75
+2026/06/09-21:59:18.085 a350 Delete type=3 #73
+2026/06/09-22:59:27.111 11b04 Level-0 table #80: started
+2026/06/09-22:59:27.111 11b04 Level-0 table #80: 0 bytes OK
+2026/06/09-22:59:27.112 11b04 Delete type=0 #78
+2026/06/09-22:59:27.114 11b04 Manual compaction at level-0 from '!items!6gfXjK1nLJJpowtp' @ 72057594037927935 : 1 .. '!items!Z3HHaX5BsVXKzDsb' @ 0 : 0; will stop at (end)
+2026/06/09-22:59:27.114 11b04 Manual compaction at level-1 from '!items!6gfXjK1nLJJpowtp' @ 72057594037927935 : 1 .. '!items!Z3HHaX5BsVXKzDsb' @ 0 : 0; will stop at (end)
